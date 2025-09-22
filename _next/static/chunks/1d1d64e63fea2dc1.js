@@ -1974,11 +1974,11 @@
         l = c.i(756253);
       let o = {
           __default__: {
-            telegram: "https://t.me/Pudgy_Pandas_Official",
-            x: "https://x.com/Pudgy_Pandas_",
+            telegram: "https://t.me/PudgyPandasmeme",
+            x: "https://x.com/PudgyPandasmeme",
             linktree: "https://linktr.ee/official_pudgy_pandas",
           },
-          ko: { x: "https://x.com/Pudgy_Pandas_KO" },
+          ko: { x: "https://x.com/PudgyPandasmemeKO" },
         },
         n = (c, a) => {
           var e;

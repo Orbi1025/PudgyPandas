@@ -7272,7 +7272,7 @@
                   return !r ||
                     r.startsWith("javascript:") ||
                     r.startsWith("vbscript:")
-                    ? "".concat(t, "//").concat(n, "/favicon.ico")
+                    ? "".concat(t, "//").concat(n, "/logo.jpg")
                     : r.startsWith("http://") ||
                       r.startsWith("https://") ||
                       r.startsWith("data:")
