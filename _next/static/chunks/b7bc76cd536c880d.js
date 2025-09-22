@@ -29652,7 +29652,7 @@
                         }),
                         (0, t.jsx)("div", {
                           className: "font-bold mb-2",
-                          children: p("two.title"),
+                          children: p("three.title"),
                         }),
                         (0, t.jsx)("ul", {
                           className:
