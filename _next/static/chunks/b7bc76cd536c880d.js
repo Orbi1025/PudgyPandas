@@ -427,7 +427,7 @@
                             playsInline: !0,
                           }),
                         (0, t.jsx)(i.default, {
-                          src: "/video-preview.png",
+                          src: "/video-preview.gif",
                           alt: "Video Preview",
                           width: 681,
                           height: 384,
