@@ -2008,9 +2008,9 @@
           name: t.default.env.TOKEN_NAME || "UNKNOWN_TOKEN",
           network: "ethereum",
           symbol: "PANDA",
-          address: "0xcomingsoon",
+          address: "0x48cbe46189083fa41cd237f384c0307d49b1dce9",
           auditUrl:
-            "https://spywolf.co/audits/PudgyPandas_0xcomingsoon.pdf",
+            "https://spywolf.co/audits/PudgyPandas_0x48cbe46189083fa41cd237f384c0307d49b1dce9.pdf",
           forcePresaleComingSoon: !1,
         },
         links: {

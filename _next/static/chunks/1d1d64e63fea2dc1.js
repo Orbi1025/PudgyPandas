@@ -2467,7 +2467,7 @@
                 ],
               })
             : (0, a.jsx)(A.default, {
-                onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x48cbe46189083fa41cd237f384c0307d49b1dce9", "_blank"),
                 className: (0, e.cn)(
                   "flex gap-1 items-center text-sm lg:px-6 whitespace-nowrap",
                   o

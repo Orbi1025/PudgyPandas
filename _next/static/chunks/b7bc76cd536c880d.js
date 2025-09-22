@@ -402,7 +402,7 @@
                         dangerouslySetInnerHTML: { __html: c.raw("content") },
                       }),
                       (0, t.jsx)(S.default, {
-                        onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                        onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x48cbe46189083fa41cd237f384c0307d49b1dce9", "_blank"),
                         className:
                           "w-full sm:w-fit mt-3 lg:mt-5 sm:mx-auto xl:mx-0",
                         children: u("buyNow"),
@@ -641,7 +641,7 @@
                     ],
                   }),
                   (0, t.jsx)(c.default, {
-                    onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                    onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x48cbe46189083fa41cd237f384c0307d49b1dce9", "_blank"),
                     className: "w-full sm:w-fit sm:mx-auto",
                     children: p("buyNow"),
                   }),
@@ -814,7 +814,7 @@
                     }),
                   }),
                   (0, t.jsx)(d.default, {
-                    onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                    onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x48cbe46189083fa41cd237f384c0307d49b1dce9", "_blank"),
                     className: "sm:w-fit sm:mx-auto",
                     children: y("buyNow"),
                   }),
@@ -29666,7 +29666,7 @@
                   ],
                 }),
                 (0, t.jsx)(l.default, {
-                  onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                  onClick: window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x48cbe46189083fa41cd237f384c0307d49b1dce9", "_blank"),
                   className: "w-full sm:w-fit sm:mx-auto lg:mt-6",
                   children: x("buyNow"),
                 }),
